@@ -1,1 +1,1 @@
-无需adb或root就能以小窗模式打开指定应用
+在MIUI(HyperOS)上，无需adb或root就能以小窗模式打开指定应用
